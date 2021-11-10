@@ -5,7 +5,7 @@ import speech_recognition as sr
 import re
 import threading
 import time
-
+#use your keys here by reading README - RITESH SRIVASTAVA
 API_KEY = "tfatOJmUnuLg"
 PROJECT_TOKEN = "tk8WoLJ_eiW8"
 RUN_TOKEN = "tyh5MyRjPxc6"
